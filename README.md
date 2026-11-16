@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Taskflow — Task Management Application
 
 Full-stack task manager with React, Express, MongoDB, JWT authentication and responsive UI.
@@ -37,3 +38,6 @@ Open http://localhost:5173
 - Periodic refresh for updates
 
 Never upload `.env` or real credentials to GitHub.
+=======
+# task-management-app
+>>>>>>> f741d1a39be6da49d96ce2a13c8cc65d850ede67
